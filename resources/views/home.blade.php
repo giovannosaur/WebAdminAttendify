@@ -5,7 +5,7 @@
 @section('content')
   <div class="section-title">Admin Panel</div>
   <div class="grid">
-    <a href="{{ url('/employee-management') }}" style="text-decoration: none; color: inherit;">
+    <a href="{{ url('/users') }}" style="text-decoration: none; color: inherit;">
       <div class="card">
         <div class="icon">👥</div>
         <div class="label">Employee Management</div>
